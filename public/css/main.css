@@ -1,0 +1,111 @@
+
+.scrollspy-example-collapsible {
+  position: relative;
+  height: 200px;
+  overflow: auto;
+}
+.side-bar {
+  background-color: rgb(242, 243, 247);;
+}
+
+.profile-image {
+  border-radius: 300px;
+  display: inline-block;
+  max-width:50%;
+  height: auto;
+  text-align: center;
+}
+
+/*hr tag in Cards*/
+.hr-graphic{
+  color: red;
+   padding: 1px; 
+   margin: 0px; 
+   height: 6px;
+}
+.hr-it{
+  color: darkorange;
+  padding: 1px;
+  margin: 0px;
+  height: 6px;
+}
+.hr-database {
+  color: darkgreen;
+  padding: 1px;
+  margin: 0px;
+  height: 6px;
+}
+.hr-web-app {
+  color: darkblue;
+  padding: 1px;
+  margin: 0px;
+  height: 6px;
+}
+/*Background-image*/
+.coffee-section {
+  position: static;
+  background-image: url("../../images/coffee-section.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  height: 100%;
+}
+
+/*Progress Bars*/
+.progressbars {
+  border-radius: 5px;
+}
+.progress {
+  height: 13px;
+  border-radius: 5px;
+}
+
+.progress-bar {
+  width: 100%;
+}
+.js-bar {
+  width: 70%;
+}
+.angular-bar {
+  width: 80%;
+}
+.laravel-bar {
+  width: 99%;
+}
+.node-bar {
+  width: 65%;
+}
+.testing-bar {
+  width: 34%;
+}
+
+.accordion {
+    background-color: rgb(242, 243, 247);;
+    border-radius: 5px;
+}
+.stepper-content {
+  padding: 3px; 
+  border-radius: 5px; 
+  align-items: center;
+  margin-top: -22px;
+}
+
+/*Contact page*/
+
+.col-md-8 {
+  background-color: rgb(242, 243, 247);;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
